@@ -1,0 +1,18 @@
+Delete all FILES (Not directories) that meet any of the following credentials
+
+- Starts with
+	- a
+	- d
+	- x
+	- f
+- Contains a number
+
+Delete all DIRECTORIES that meet any of the following credentials
+
+- Contains a number
+
+When the above instructions have been completed, use the command
+
+cat $(ls | sort | tail -3 | head -1)
+
+To get your next instructions
