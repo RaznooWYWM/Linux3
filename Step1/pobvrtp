@@ -5,7 +5,7 @@ Congrats! You've found step 2
 - Move this file into the previous folder (root/Linux3/)
 - Move this file into the Step2 folder
 - add 3 files named file1, file2, and file3
-- FOURTH STEP GOES HERE
+- cat $(ls | sort | head -5 | tail -1)
 
 Morbi tincidunt ornare massa eget egestas. Euismod in pellentesque massa placerat. Vestibulum morbi blandit cursus risus at ultrices. Id cursus metus aliquam eleifend mi in nulla posuere. Nibh mauris cursus mattis molestie a iaculis at erat. Sit amet nisl purus in mollis nunc sed id semper. Semper quis lectus nulla at volutpat diam. Et netus et malesuada fames. Semper auctor neque vitae tempus quam pellentesque nec nam. Scelerisque eu ultrices vitae auctor eu augue. Neque gravida in fermentum et sollicitudin ac orci phasellus.
 
