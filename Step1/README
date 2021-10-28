@@ -13,6 +13,6 @@ Delete all DIRECTORIES that meet any of the following credentials
 
 When the above instructions have been completed, use the command
 
-cat $(ls | sort | tail -3 | head -1)
+ls | sort | tail -2 | head -1
 
-To get your next instructions
+To get the file containing your next instructions
